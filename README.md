@@ -13,4 +13,3 @@ I am currently a **4th-year engineering student at EPITA**, majoring in **Embedd
 * **Languages:** C, C++, Python, Assembly (and maybe some Rust 🦀?)
 * **Systems & Tools:** Linux, RTOS, CMake, Git, Docker
 * **Hardware & Electronics:** STM32, ESP32, Raspberry Pi, Arduino, Protocols (I2C, SPI, UART)
-
