@@ -10,6 +10,6 @@ I am currently a **4th-year engineering student at EPITA**, majoring in **Embedd
 
 ### 🛠️ Tech Stack (Embedded Swiss Army Knife)
 
-* **Languages:** C, C++, Python, Assembly (and maybe some Rust 🦀?)
-* **Systems & Tools:** Linux, RTOS, CMake, Git, Docker
+* **Languages:** C, C++, C#, Python, Java and JS
+* **Systems & Tools:** Linux, RTOS, CMake, Git/Gitlabb, Docker
 * **Hardware & Electronics:** STM32, ESP32, Raspberry Pi, Arduino, Protocols (I2C, SPI, UART)
