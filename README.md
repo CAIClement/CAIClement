@@ -1,15 +1,15 @@
-# Salut, je suis Clément 👋
+# Hi, I'm Clément 👋
 
-Je suis actuellement étudiant en **4ème année d'ingénierie à l'EPITA**, avec une spécialisation en **Systèmes Embarqués**. Je suis passionné par la programmation bas niveau, l'IoT, et la création de ponts entre le matériel et le logiciel.
+I am currently a **4th-year engineering student at EPITA**, majoring in **Embedded Systems**. I am passionate about low-level programming, IoT, and bridging the gap between hardware and software.
 
-* 🔭 Actuellement, je travaille sur mes projets de cycle ingénieur autour du développement embarqué et de l'architecture matérielle.
-* 🌱 J'approfondis quotidiennement mes compétences en **C/C++, Linux embarqué et développement sur microcontrôleurs**.
-* 👯 Je suis ouvert pour collaborer sur des projets open-source liés à l'IoT, la robotique ou l'optimisation système.
-* 💬 Tu peux me parler de : **C, C++, architecture OS, et hardware**.
-* 📫 Pour me contacter : [Mon profil LinkedIn](https://www.linkedin.com/in/clementcai)
+* 🔭 Currently working on my engineering cycle projects focused on embedded development and hardware architecture.
+* 🌱 Deepening my knowledge daily in **C/C++, Embedded Linux, and microcontroller development**.
+* 👯 Looking to collaborate on open-source projects related to IoT, robotics, or system optimization.
+* 💬 Ask me about: **C, C++, OS architecture, and hardware**.
+* 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/clementcai)
 
-### 🛠️ Ma Stack Technique (Couteau Suisse de l'Embarqué)
+### 🛠️ Tech Stack (Embedded Swiss Army Knife)
 
-* **Langages :** C, C++, Python, Assembleur (et un peu de Rust 🦀 ?)
-* **Systèmes & Outils :** Linux, RTOS, CMake, Git, Docker
-* **Hardware & Électronique :** STM32, ESP32, Raspberry Pi, Arduino, Protocoles (I2C, SPI, UART)
+* **Languages:** C, C++, Python, Assembly (and maybe some Rust 🦀?)
+* **Systems & Tools:** Linux, RTOS, CMake, Git, Docker
+* **Hardware & Electronics:** STM32, ESP32, Raspberry Pi, Arduino, Protocols (I2C, SPI, UART)
