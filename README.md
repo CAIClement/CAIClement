@@ -8,7 +8,7 @@ I am currently a **4th-year engineering student at EPITA**, majoring in **Embedd
 * 💬 Ask me about: **C, C++, OS architecture, and hardware**.
 * 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/clementcai)
 
-### 🛠️ Tech Stack (Embedded Swiss Army Knife)
+### 🛠️ Tech Stack
 
 * **Languages:** C, C++, C#, Python, Java and JS
 * **Systems & Tools:** Linux, RTOS, CMake, Git/Gitlabb, Docker
