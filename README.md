@@ -5,7 +5,7 @@ I am currently a **4th-year engineering student at EPITA**, majoring in **Embedd
 * 🔭 Currently working on my engineering cycle projects focused on embedded development and hardware architecture.
 * 🌱 Deepening my knowledge daily in **C/C++, Embedded Linux, and microcontroller development**.
 * 👯 Looking to collaborate on open-source projects related to IoT, robotics, or system optimization.
-* 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/clementcai)
+* 📫 How to reach me: [My LinkedIn profile](https://www.linkedin.com/in/clementcai).
 
 ### 🛠️ Tech Stack
 
