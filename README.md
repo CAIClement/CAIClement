@@ -1,6 +1,6 @@
 # Hi, I'm Clément 👋
 
-I am currently a **4th-year engineering student at EPITA**, majoring in **Embedded Systems**. I am passionate about low-level programming, IoT, and bridging the gap between hardware and software.
+I am currently a **5th-year engineering student at EPITA**, majoring in **Embedded Systems**. I am passionate about low-level programming, IoT, and bridging the gap between hardware and software.
 
 * 🔭 Currently working on my engineering cycle projects focused on embedded development and hardware architecture.
 * 🌱 Deepening my knowledge daily in **C/C++, Embedded Linux, and microcontroller development**.
