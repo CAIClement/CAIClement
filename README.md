@@ -16,4 +16,4 @@ Electronics: KiCad, hardware reverse engineering, oscilloscope, multimeter
 Software: Python, C#/.NET, TypeScript, Java, SQL, Bash, unit testing (Unity, Vitest)
 Tools: Git, PlatformIO, CMake, Docker, Linux
 
-📫 LinkedIn · clementkechen.cai@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/clementcai/) · clementkechen.cai@gmail.com
